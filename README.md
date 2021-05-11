@@ -1,6 +1,6 @@
 # transit-times-code
 
-A simple Jupyter notebook GUI for finding dates and times of primary and secondary transits.
+A simple Jupyter notebook GUI for finding dates and times of primary and secondary transits. Outputs transit times in chronological order, organised into .csv files by night beginning.
 
 Note: this is optimised for the specific observing runs that I'm involved in- this code has not been used by anyone except me yet. Feel free to suggest changes or edits if there are options which could be expanded for your needs!
 
