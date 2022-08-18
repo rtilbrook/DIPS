@@ -1,4 +1,4 @@
-# transit-times-code
+# DIPS : Detection Itinerary Planner for transiting Systems
 
 A simple Jupyter notebook GUI for finding dates and times of primary and secondary transits. Outputs transit times in chronological order, organised into .csv files by night beginning.
 
